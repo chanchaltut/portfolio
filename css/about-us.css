@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 30%;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    border: 2px solid blueviolet;
+    border-radius: 13px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.icons {
+    margin: 1rem;
+}
+
+.icons i {
+    padding: 0px .5rem;
+    font-size: 2.5rem;
+    color: rgb(172, 48, 131);
+}
+
+/* 
+It was for my website The Ultimate Thinker
+
+.mobile-menu{
+height: 100%;
+position: fixed;
+top: 0 px;
+left: 0 px;
+width: 80%;
+background: linear-gradient(-195deg, #1442ed -39%, #33aae3 90%);
+z-index: 2;
+box-sizing: border-box;
+padding: 3 rem 1.2 rem;
+border-top: 1 px solid rgba(255, 255, 255, 0.08);
+transform: translateX(-85vw);
+overflow-y: auto;
+transition: all .6s cubic-bezier(.79, .14, .15, .86);
+} */
